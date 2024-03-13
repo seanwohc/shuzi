@@ -18,6 +18,7 @@ C C/B Am F G
 **Chorus**  
 C Am F G
 
+**Verse 1**  
 走在  
 蓝天  
 白云  
@@ -28,6 +29,7 @@ C Am F G
 背包  
 jalan-jalan槟城的kopitiam
 
+**Verse 2**  
 &&&  
 幻想  
 自己  
@@ -39,7 +41,7 @@ jalan-jalan槟城的kopitiam
 小心  
 前面你pua̍h-tó lòng-phuà thâu （跌倒弄破头）
 
-
+**Chorus**  
 **你说梳子  会不会  
 让我整个人  飘了点  
 真的不想  再回首  
