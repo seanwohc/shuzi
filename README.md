@@ -79,4 +79,8 @@ Mama kā lí kóng
 
 Mama kā lí kóng
 
+Mama kā lí kóng
+
+Mama kā lí kóng
+
 Ài lâng mài hāi lâng, mài lâng dôu mài lâng láng**（爱人莫害人，无情莫玩人）
