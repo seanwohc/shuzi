@@ -2,8 +2,8 @@
 
  <a href="https://www.buymeacoffee.com/seanwohcc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
  
-初版demo
-https://www.youtube.com/watch?v=c3nD7CW0HNY。
+初版demo  
+https://www.youtube.com/watch?v=c3nD7CW0HNY  
 https://on.soundcloud.com/AQADFSQyuMWDMwca6
  
  # 梳子 
