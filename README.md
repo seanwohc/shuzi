@@ -3,7 +3,7 @@
  <a href="https://www.buymeacoffee.com/seanwohcc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
  
 初版demo  
-[Youtube](https://www.youtube.com/watch?v=c3nD7CW0HNY)  
+[YouTube](https://www.youtube.com/watch?v=c3nD7CW0HNY)  
 [SoundCloud](https://soundcloud.com/user-493747884-367331876/shuzi-demo)  
  
  # 梳子 
